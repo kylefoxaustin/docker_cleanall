@@ -89,3 +89,10 @@ MIT
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+---
+
+Maintained by [kylefoxaustin](https://github.com/kylefoxaustin/docker_cleanall)
+
+Last updated: April 2025
+
